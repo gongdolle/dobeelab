@@ -1,6 +1,6 @@
 ### rule
 
-dobeelab<br/>
+dobeelab/<br/>
 
         ┌models ┌model.ipyb
         │   .   └readme.md
